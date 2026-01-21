@@ -110,7 +110,7 @@ Thanks to open-source datasets and libraries that made this project possible.
 🚀 Connect With Me
 
 📧 Email: arnabparira4@gmail.com
-🐙 GitHub: https://github.com/Amitdas-2023
+🐙 GitHub: https://github.com/arnabparira
 
 Thanks for checking out this project!
 If this project helped you, feel free to ⭐ star the repository and share it with others learning Machine Learning and NLP.
